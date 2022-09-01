@@ -4,9 +4,8 @@ Homework for Saminur in CSC 510
 
 [![GitHub license](https://img.shields.io/github/license/saminur/CSC-510-Group21-HW-1-SAMINUR?style=plastic)](https://github.com/saminur/CSC-510-Group21-HW-1-SAMINUR/blob/main/LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/landog893/CSC-510-Group-21-HW-1?style=plastic)](https://github.com/saminur/CSC-510-Group21-HW-1-SAMINUR/issues)
-[![DOI](https://zenodo.org/badge/528489840.svg)](https://zenodo.org/badge/latestdoi/528489840)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/saminur/CSC-510-Group21-HW-1-SAMINUR/CI?style=plastic)
-![Coverage lines](https://img.shields.io/badge/Coverage:lines-100-green.svg)
+
 
 
 Here we will see theth einstrocution to the project and the details of the development technologies and installation instruction.

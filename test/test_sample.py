@@ -6,7 +6,7 @@ Created on Thu Sep  1 12:08:15 2022
 
 import sys
 
-sys.path.insert(0, '/code/')
+sys.path.append("./code")
 
 import __init__ as pkg
 print(pkg.test_answer())

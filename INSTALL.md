@@ -20,9 +20,9 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/saminur/CSC-510-Group21-HW-1-SAMINUR.git
    ```
-3. Install NPM packages
+3. Install scipy packages
    ```sh
-   npm install
+   pip install 
    ```
 4. Enter your API in `config.js`
    ```js

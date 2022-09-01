@@ -4,6 +4,7 @@ Homework for Saminur in CSC 510
 
 [![GitHub license](https://img.shields.io/github/license/saminur/CSC-510-Group21-HW-1-SAMINUR?style=plastic)](https://github.com/saminur/CSC-510-Group21-HW-1-SAMINUR/blob/main/LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/landog893/CSC-510-Group-21-HW-1?style=plastic)](https://github.com/saminur/CSC-510-Group21-HW-1-SAMINUR/issues)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7039716.svg)](https://doi.org/10.5281/zenodo.7039716)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/saminur/CSC-510-Group21-HW-1-SAMINUR/CI?style=plastic)
 
 

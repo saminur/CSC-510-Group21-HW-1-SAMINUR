@@ -1,5 +1,5 @@
-Testing instructions
+# Testing instructions
 
-Test cases
+## Test cases
 
-test Results
+## Test Results
